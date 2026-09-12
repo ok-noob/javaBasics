@@ -1,11 +1,5 @@
 public class Basics {
     public static void main(String[] args) {
-//        Newbies Lines
-        System.out.println("Hello, Friend!");
-        System.out.println("Hello, Friend!");
-        System.out.println("What is your name?");
-        System.out.println("What is your age?");
-        System.out.println("You are not Elliot \nYou are Mastermind");
 
 //        Variables Practice
 //        Declaring Variables First
